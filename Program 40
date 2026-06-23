@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main()
+{
+    printf("User (u)  : Read Write Execute\n");
+    printf("Group (g) : Read Write Execute\n");
+    printf("Others(o) : Read Write Execute\n");
+
+    return 0;
+}
